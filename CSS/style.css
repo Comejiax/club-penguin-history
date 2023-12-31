@@ -249,7 +249,7 @@ body{
 /*Carrusel*/
 .carrusel{
     margin-top: 200px;
-    background-image: url(/IMG/PPW/1.png);
+    background-image: url(./IMG/PPW/1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 880px;
@@ -258,100 +258,100 @@ body{
 }
 @keyframes carrusel {
     5%{
-        background-image: url(/IMG/PPW/2.png);
+        background-image: url(./IMG/PPW/2.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     10%{
-        background-image: url(/IMG/PPW/3.png);
+        background-image: url(./IMG/PPW/3.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     15%{
-        background-image: url(/IMG/PPW/4.png);
+        background-image: url(./IMG/PPW/4.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     
     20%{
-        background-image: url(/IMG/PPW/5.png);
+        background-image: url(./IMG/PPW/5.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     25%{
-        background-image: url(/IMG/PPW/6.png);
+        background-image: url(./IMG/PPW/6.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     30%{
-        background-image: url(/IMG/PPW/7.png);
+        background-image: url(./IMG/PPW/7.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     35%{
-        background-image: url(/IMG/PPW/8.png);
+        background-image: url(./IMG/PPW/8.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     40%{
-        background-image: url(/IMG/PPW/9.jpg);
+        background-image: url(./IMG/PPW/9.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
     45%{
-        background-image: url(/IMG/PPW/10.png);
+        background-image: url(./IMG/PPW/10.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     
     50%{
-        background-image: url(/IMG/PPW/11.png);
+        background-image: url(./IMG/PPW/11.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     55%{
-        background-image: url(/IMG/PPW/12.png);
+        background-image: url(./IMG/PPW/12.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     60%{
-        background-image: url(/IMG/PPW/13.png);
+        background-image: url(./IMG/PPW/13.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     65%{
-        background-image: url(/IMG/PPW/14.png);
+        background-image: url(./IMG/PPW/14.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     70%{
-        background-image: url(/IMG/PPW/15.png);
+        background-image: url(./IMG/PPW/15.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     75%{
-        background-image: url(/IMG/PPW/16.png);
+        background-image: url(./IMG/PPW/16.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     80%{
-        background-image: url(/IMG/PPW/17.png);
+        background-image: url(./IMG/PPW/17.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     
     85%{
-        background-image: url(/IMG/PPW/18.png);
+        background-image: url(./IMG/PPW/18.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     90%{
-        background-image: url(/IMG/PPW/19.png);
+        background-image: url(./IMG/PPW/19.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
     95%{
-        background-image: url(/IMG/PPW/Boxcritters.png);
+        background-image: url(./IMG/PPW/Boxcritters.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
